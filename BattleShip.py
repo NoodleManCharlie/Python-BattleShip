@@ -184,7 +184,8 @@ def game():
       notInOcean = False
       if won == True:
         print("You Won in " + str(playerTimeTurn) + " turns!")
-    print("You have " + str(guesses-playerTimeTurn) + " turns left")
+        break
+      print("You have " + str(guesses-playerTimeTurn) + " turns left")
   if exited:
     return 0
   else:
