@@ -12,3 +12,6 @@ If you would like to see what it started as before I got bored at school a coupl
 
 Next up?
 Battleships of different sizes maybe?
+Letter Number Combination
+Label Rows and Columns
+Mode where Computer guesses YOUR battleship locations
